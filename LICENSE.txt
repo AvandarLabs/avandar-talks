@@ -1,4 +1,10 @@
 Copyright © Avandar Labs, 2025. All Rights Reserved.
 
-No part of these slides or talks may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the copyright holder.
+Permission is granted to share the URL to this repository for the purpose of public viewing.
+
+Personal cloning of this repository or local browsing is permitted solely for private use and personal reference.
+
+Redistribution, reproduction, republishing, modification, commercial use, or any public sharing of the contents of this repository (including slide decks and talks) is strictly prohibited without prior written permission from the copyright holder.
+
+By accessing, cloning, or viewing the contents of this repository, you agree to these terms.
 
