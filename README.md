@@ -1,6 +1,6 @@
 # Avandar Talks
 
-This is a collection of public talks given by Avandar Labs.
+This is a collection of public talks given by [Avandar Labs](https://www.avandarlabs.com/).
 
 Each directory has a `slides-export.pdf` file where you can view the PDF export.
 
