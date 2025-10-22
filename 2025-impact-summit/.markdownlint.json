@@ -1,0 +1,8 @@
+{
+  "single-h1": false,
+  "no-inline-html": false,
+  "heading-style": false,
+  "blanks-around-headings": false,
+  "no-duplicate-heading": false,
+  "first-line-h1": false
+}
