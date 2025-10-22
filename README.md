@@ -14,7 +14,7 @@ To get the full experience of the slides, with animations and interactivity:
 
 ## Copyright
 
-All content and slides are copyright of Avandar Labs. Sharing the repository URL
-publicly is permitted and so is cloning the repository for personal browsing
+All content and slides are copyright of Avandar Labs. Publicly sharing the repository URL
+is permitted and so is cloning the repository for personal browsing
 and reference. Any redistribution of the contents and slides in this repository is
 prohibited. See [LICENSE.txt](LICENSE.txt) for more details.
